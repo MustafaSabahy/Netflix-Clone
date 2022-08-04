@@ -10,12 +10,7 @@ A Simple clone of Netflix App 📱
 ## Light Mode 🌞
 Home |Feed Page |Coming Soon | Downloads | Story | Search
 --- | --- | --- |--- |--- |--- 
-![](https://github.com/MustafaSabahy/Netflix-Clone-by-SwiftUI-with-MVVM-/blob/main/home.png) |
-![](https://github.com/MustafaSabahy/Netflix-Clone-by-SwiftUI-with-MVVM-/blob/main/feed.png) |
-![](https://github.com/MustafaSabahy/Netflix-Clone-by-SwiftUI-with-MVVM-/blob/main/coming%20.png) |
-![](https://github.com/MustafaSabahy/Netflix-Clone-by-SwiftUI-with-MVVM-/blob/main/download.png) |
-![](https://github.com/MustafaSabahy/Netflix-Clone-by-SwiftUI-with-MVVM-/blob/main/story.png)  |
-![](https://github.com/MustafaSabahy/Netflix-Clone-by-SwiftUI-with-MVVM-/blob/main/search.png) 
+![](https://github.com/MustafaSabahy/Netflix-Clone-by-SwiftUI-with-MVVM-/blob/main/home.png) |![](https://github.com/MustafaSabahy/Netflix-Clone-by-SwiftUI-with-MVVM-/blob/main/feed.png) |![](https://github.com/MustafaSabahy/Netflix-Clone-by-SwiftUI-with-MVVM-/blob/main/coming%20.png) |![](https://github.com/MustafaSabahy/Netflix-Clone-by-SwiftUI-with-MVVM-/blob/main/download.png) |![](https://github.com/MustafaSabahy/Netflix-Clone-by-SwiftUI-with-MVVM-/blob/main/story.png)  |![](https://github.com/MustafaSabahy/Netflix-Clone-by-SwiftUI-with-MVVM-/blob/main/search.png) 
 
 
 
