@@ -1,7 +1,7 @@
 
 ![GitHub Cards Preview](https://github.com/MustafaSabahy/Netflix-Clone-by-SwiftUI-with-MVVM-/blob/main/COVER.png?raw=true)
 
-# Tiktok
+# Netflix
 A Simple clone of Netflix App 📱
  built in swiftUI, MVVM Architecture 🏗. *Made with love ❤️ by [Mustafa Sabahy](https://github.com/mustafasabahy)*
 
