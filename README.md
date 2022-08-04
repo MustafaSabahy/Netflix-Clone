@@ -7,7 +7,7 @@ A Simple clone of Netflix App 📱
 
 <br />
 
-## Light Mode 🌞
+## Dark Mode 🌞
 Home |Feed Page |Coming Soon | Downloads | Story | Search
 --- | --- | --- |--- |--- |--- 
 ![](https://github.com/MustafaSabahy/Netflix-Clone-by-SwiftUI-with-MVVM-/blob/main/home.png) |![](https://github.com/MustafaSabahy/Netflix-Clone-by-SwiftUI-with-MVVM-/blob/main/feed.png) |![](https://github.com/MustafaSabahy/Netflix-Clone-by-SwiftUI-with-MVVM-/blob/main/coming%20.png) |![](https://github.com/MustafaSabahy/Netflix-Clone-by-SwiftUI-with-MVVM-/blob/main/download.png) |![](https://github.com/MustafaSabahy/Netflix-Clone-by-SwiftUI-with-MVVM-/blob/main/story.png)  |![](https://github.com/MustafaSabahy/Netflix-Clone-by-SwiftUI-with-MVVM-/blob/main/search.png) 
@@ -26,9 +26,9 @@ If you want to contribute to this app, you're always welcome!
 See [Contributing Guidelines](https://github.com/MustafaSabahy/Tiktok-iOS/blob/main/CONTRIBUTION.md). 
 
 Third Party Libraries
-* [ GSPlayer ](https://github.com/wxxsw/GSPlayer/blob/master/ScreenShots/logo.png)
-*  [ Kingfisher ](https://raw.githubusercontent.com/onevcat/Kingfisher/master/images/logo.png)
-*  [ VideoPlayer ](https://github.com/wxxsw/VideoPlayer/blob/master/Images/logo.png)
+* [ GSPlayer ](https://github.com/wxxsw/GSPlayer)
+*  [ Kingfisher ](https://github.com/onevcat/Kingfisher)
+*  [ VideoPlayer ](https://github.com/wxxsw/VideoPlayer)
 
 
 ## License
